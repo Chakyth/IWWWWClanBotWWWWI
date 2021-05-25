@@ -31,7 +31,7 @@ if(command === 'embed'){
  const saymsg = message.content.slice(Number(prefix.length) + 5)
     //define embed
     const embed = new Discord.MessageEmbed()
-    .setTitle("Order Music Bot")
+    .setTitle("Clan Bot")
 	.setColor("#c219d8")
     .setDescription(saymsg)
     .setFooter("Bot made by ! AT Dropi#1661", client.user.displayAvatarURL())
@@ -277,4 +277,4 @@ message.channel.send({embed: {
 	
 
 
-client.login('ODQ2MDY1ODQ5OTExNDc2MjY0.YKqGOQ.Ip_rxKxfrOO7ZqEllsOYSWqUE3c');
+client.login('ODQ2MDY1ODQ5OTExNDc2MjY0.YKqGOQ.FWGoYKTuIv9jw55t2d-URUko0XI');
