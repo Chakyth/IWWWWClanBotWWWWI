@@ -1,17 +1,48 @@
 {
-  "name": "IWWWWClanBotWWWWI",
+  "name": "IWWWWjxlianComWWWWI-1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "@haileybot/captcha-generator": "^1.7.0",
+    "axios": "^0.21.1",
+    "botdash.pro": "^1.0.2",
+    "canvacord": "^5.2.1",
+    "canvas": "^2.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord-buttons": "^4.0.0",
+    "discord-math": "^1.0.5",
+    "discord-player": "^4.1.4",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "enmap": "^5.8.5",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.0",
+    "ms": "^2.1.3",
+    "old-wio.db": "^4.0.10",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "warning": "^4.0.3",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^4.8.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chakyth/IWWWWClanBotWWWWI.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "discord.js": "^12.5.3",
-    "enmap": "^5.8.5",
-    "express": "^4.17.1"
-  }
+  "bugs": {
+    "url": "https://github.com/Chakyth/IWWWWClanBotWWWWI/issues"
+  },
+  "homepage": "https://github.com/Chakyth/IWWWWClanBotWWWWI#readme",
+  "description": ""
 }
